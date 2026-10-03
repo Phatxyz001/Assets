@@ -1,0 +1,11 @@
+# Images folder
+
+Chứa các hình ảnh cho loading screen:
+- Logo server
+- Background images
+- Icons
+
+Sau khi tạo file này, upload ảnh vào folder này bằng cách:
+- Click "Add file" → "Upload files"
+- Kéo thả ảnh vào
+- Click "Commit changes"
